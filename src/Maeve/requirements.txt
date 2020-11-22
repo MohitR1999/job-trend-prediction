@@ -1,0 +1,9 @@
+pytesseract
+pdf2image
+opencv-python
+psycopg2
+flask
+flask_cors
+pandas
+elasticsearch
+nltk
